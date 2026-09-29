@@ -1,0 +1,149 @@
+<mxfile host="65bd71144e">
+    <diagram id="jRUn1IU0JQYF2ZAeFDS8" name="Page-1">
+        <mxGraphModel dx="388" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=light-dark(#a31fe0, #9577a3);fillColor=#CC99FF;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="Dayagram for attract customer." vertex="1">
+                    <mxGeometry height="30" width="310" x="280" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-4" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-2" style="edgeStyle=none;html=1;" target="n-iW8AOkengrOVK5qGDC-3" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Start" vertex="1">
+                    <mxGeometry height="80" width="120" x="390" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-6" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-3" style="edgeStyle=none;html=1;" target="n-iW8AOkengrOVK5qGDC-5" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-3" parent="1" style="whiteSpace=wrap;html=1;" value="Define Hook Offer &amp;amp; Launch Promotions Free diagnostics or free tempered glass with screen replacement Express software cleanup in 30 mins" vertex="1">
+                    <mxGeometry height="110" width="180" x="360" y="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-8" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-5" style="edgeStyle=none;html=1;" target="n-iW8AOkengrOVK5qGDC-7" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-5" parent="1" style="whiteSpace=wrap;html=1;" value="Deploy Attraction Channels (Lead Generation)- Digital: Google Maps (Local SEO) + Facebook/Instagram Ads Physical: Eye-catching storefront sign + Flyers in nearby shops\n- Partnerships: Deals with local schools or small offices" vertex="1">
+                    <mxGeometry height="170" width="190" x="355" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="How does the potential customer reach out?" vertex="1">
+                    <mxGeometry height="120" width="95" x="400" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-9" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-7" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="620"/>
+                        </Array>
+                        <mxPoint x="430" y="610" as="sourcePoint"/>
+                        <mxPoint x="280" y="720" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-32" connectable="0" parent="n-iW8AOkengrOVK5qGDC-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="WhatsApp / Social Media" vertex="1">
+                    <mxGeometry relative="1" x="0.5709" y="7" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-10" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-7" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" target="n-iW8AOkengrOVK5qGDC-13" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="430" y="610" as="sourcePoint"/>
+                        <mxPoint x="450" y="720" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-33" connectable="0" parent="n-iW8AOkengrOVK5qGDC-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="In-Person / Walk-in" vertex="1">
+                    <mxGeometry relative="1" x="-0.4014" y="3" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-11" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-7" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="600" y="620"/>
+                        </Array>
+                        <mxPoint x="500" y="640" as="sourcePoint"/>
+                        <mxPoint x="600" y="720" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-34" connectable="0" parent="n-iW8AOkengrOVK5qGDC-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Google Maps / Calls" vertex="1">
+                    <mxGeometry relative="1" x="0.6078" y="-1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fast response (&amp;lt;5 mins) with clear pricing for hardware or software solutions" vertex="1">
+                    <mxGeometry height="60" width="120" x="230" y="720" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Warm counter greeting + On-the-spot initial equipment check" vertex="1">
+                    <mxGeometry height="60" width="120" x="390" y="720" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Direct call handling or driving directions to the shop" vertex="1">
+                    <mxGeometry height="60" width="120" x="540" y="720" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-20" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-15" style="edgeStyle=none;html=1;" target="n-iW8AOkengrOVK5qGDC-19" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-22" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-15" style="edgeStyle=none;html=1;" target="n-iW8AOkengrOVK5qGDC-21" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Does the customer accept the repair estimate?" vertex="1">
+                    <mxGeometry height="155" width="112.5" x="391.25" y="927.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-16" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-12" style="endArrow=none;html=1;exitX=0.413;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="n-iW8AOkengrOVK5qGDC-14" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="880"/>
+                            <mxPoint x="600" y="880"/>
+                        </Array>
+                        <mxPoint x="470" y="780" as="sourcePoint"/>
+                        <mxPoint x="520" y="730" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-17" edge="1" parent="1" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n-iW8AOkengrOVK5qGDC-15" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="450" y="880" as="sourcePoint"/>
+                        <mxPoint x="510" y="750" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-18" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-13" style="endArrow=none;html=1;exitX=0.516;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="460" y="800" as="sourcePoint"/>
+                        <mxPoint x="450" y="880" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-26" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-19" style="edgeStyle=none;html=1;" target="n-iW8AOkengrOVK5qGDC-25" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-19" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;code&gt;Execute repair or software service with top quality&lt;/code&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="220" y="975" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-21" parent="1" style="whiteSpace=wrap;html=1;" value="Offer a budget-friendly option or leave door open for future needs" vertex="1">
+                    <mxGeometry height="60" width="120" x="390" y="1115" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="YES" vertex="1">
+                    <mxGeometry height="30" width="60" x="350" y="970" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NO" vertex="1">
+                    <mxGeometry height="30" width="60" x="450" y="1070" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-28" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-25" style="edgeStyle=none;html=1;" target="n-iW8AOkengrOVK5qGDC-27" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-25" parent="1" style="whiteSpace=wrap;html=1;" value="Delivery &amp;amp; Counter Upselling(Add accessories like cases, fast chargers, screen protectors)" vertex="1">
+                    <mxGeometry height="80" width="140" x="210" y="1115" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-30" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-27" style="edgeStyle=none;html=1;" target="n-iW8AOkengrOVK5qGDC-29" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-27" parent="1" style="whiteSpace=wrap;html=1;" value="Retention &amp;amp; Referral Strategy Ask for a 5-star Google Maps review- Save contact on WhatsApp for periodic promotional broadcasts" vertex="1">
+                    <mxGeometry height="90" width="150" x="200" y="1260" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="End" vertex="1">
+                    <mxGeometry height="80" width="80" x="407.5" y="1270" as="geometry"/>
+                </mxCell>
+                <mxCell id="n-iW8AOkengrOVK5qGDC-31" edge="1" parent="1" source="n-iW8AOkengrOVK5qGDC-21" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n-iW8AOkengrOVK5qGDC-29" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="450" y="1270" as="sourcePoint"/>
+                        <mxPoint x="500" y="1220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
